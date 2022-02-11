@@ -10,18 +10,18 @@ Design and testing operations of Digital Clock.
 
 # SWOT analysis
 
-Strengths       : To show the current time and can be used as stop watch.
-Weakness        : cannot able to show current running time untill we set the time.
-Opportunities   : By using digital clock it is easy to indicate the time that is shown in numbers.
+* Strengths       : To show the current time and can be used as stop watch.
+* Weakness        : cannot able to show current running time untill we set the time.
+* Opportunities   : By using digital clock it is easy to indicate the time that is shown in numbers.
 
 
 # 4’W and 1’H
 
-What   : Digital Clock
-Where  : Everywhere in the World
-When   : Need for indicating time.
-Who    : Any one who need to know time.
-How    : Shows the current time as the output.
+* What   : Digital Clock
+* Where  : Everywhere in the World
+* When   : Need for indicating time.
+* Who    : Any one who need to know time.
+* How    : Shows the current time as the output.
 
 
 # High Level Requirements:
