@@ -1,6 +1,6 @@
 # REQUIREMENTS
 
-A digital clock is used to measure accurate time. It is also used as stop watch. It indicates the current time. This is done by indicating hours, minutes and seconds in the format of numbers.A hour is a period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes, a minute is a period of time equal to sixty seconds or a sixtieth of an hour and a second is a sixtieth of a minute.It can be used in both(Linux and Windows).
+A digital clock is used to measure accurate time. It is also used as stop watch. It indicates the current time. This is done by indicating hours, minutes and seconds in the format of numbers.A hour is a period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes, a minute is a period of time equal to sixty seconds or a sixtieth of an hour and a second is a sixtieth of a minute.
 
 
 # Defining System
