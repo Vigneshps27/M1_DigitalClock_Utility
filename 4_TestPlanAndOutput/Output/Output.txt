@@ -1,0 +1,10 @@
+                    ---Welcome To Digital Clock---
+                    
+                  1. Current Time
+                  2. Stop Watch
+                  3. Set Time
+                  4. Exit
+                  
+                  Selection : 1
+                  
+            12:06:15
