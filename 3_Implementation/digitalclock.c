@@ -28,8 +28,6 @@ int stop_watch()
     while(1)
     {
 
-        //print time in HH : MM : SS format
-
 
          //increase second
         second++;
