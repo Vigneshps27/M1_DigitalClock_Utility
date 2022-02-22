@@ -1,3 +1,4 @@
+#include "digitalclock.h"
 int set_time()
 {
     int hour,minute,second;
