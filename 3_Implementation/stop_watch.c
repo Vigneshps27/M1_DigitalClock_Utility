@@ -1,3 +1,4 @@
+#include "digitalclock.h"
 int stop_watch()
 {
     int hour, minute, second;
