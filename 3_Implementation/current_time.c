@@ -1,3 +1,4 @@
+#include "digitalclock.h"
 int current_time()
 {
     time_t s;
