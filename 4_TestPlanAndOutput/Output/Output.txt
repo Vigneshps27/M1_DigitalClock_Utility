@@ -1,17 +1,4 @@
-                   #Main Menu
-                   
-                             ---Welcome To Digital Clock---
-                    
-                  1. Current Time
-                  2. Stop Watch
-                  3. Set Time
-                  4. Exit
-                  
-                  Selection : 
-            
-                   # Selection 1
-            
-                                ---Welcome To Digital Clock---
+                                            ---Welcome To Digital Clock---
                     
                   1. Current Time
                   2. Stop Watch
@@ -22,28 +9,4 @@
                   
             12:06:15
             
-                  # Selection 2
-            
-                                ---Welcome To Digital Clock---
-                    
-                  1. Current Time
-                  2. Stop Watch
-                  3. Set Time
-                  4. Exit
                   
-                  Selection : 2
-                  
-            00:00:00
-            
-                  # Selection 3
-            
-                                ---Welcome To Digital Clock---
-                    
-                  1. Current Time
-                  2. Stop Watch
-                  3. Set Time
-                  4. Exit
-                  
-                  Selection : 3
-                  
-            12:12:12
