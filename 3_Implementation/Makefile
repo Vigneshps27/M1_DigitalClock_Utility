@@ -1,5 +1,5 @@
-SRC = DigitalClock.c Set_time.c Current_time.c Stop_watch.c
-INC = DigitalClock.h
+SRC = digitalclock.c set_time.c current_time.c stop_watch.c
+INC = digitalclock.h
 target :  $(SRC) $(INC)
 	gcc $(SRC) -o all.out
 	
